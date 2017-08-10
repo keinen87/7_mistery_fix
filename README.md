@@ -1,23 +1,12 @@
-# Решатель квадратных уравнений
-
-[TODO. Здесь будет описание проекта]
-
-# Как использовать
-
-[TODO. Здесь будет описание программного интерфейса: функции, их аргументы, формат ответа]
-
-# Как запустить
-
-Скрипт требует для своей работы установленного интерпретатора Python версии 3.5
-
-Запуск на Linux:
-
+# Solver of quadratic equations
+Computes the real roots of a quadratic equations
+## Installing
+Python 3.5
+Linux(Windows):
 ```bash
-python tests.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
+python tests.py # python3 call instead of python can be necessary, depends on settings of an operating system
 ```
-
-Запуск на Windows происходит аналогично.
-
-# Цели проекта
-
-Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
+## License
+[MIT](LICENSE).
+The code is created in the educational purposes. Within a training course on a web development
+ ― [DEVMAN.org](https://devman.org)
